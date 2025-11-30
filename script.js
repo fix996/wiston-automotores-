@@ -48,7 +48,7 @@ const CONFIG = {
             },
             descripcion: 'Peugeot 208 2023 en versión full, tecnología de punta y diseño europeo. Perfecto para la ciudad con un consumo eficiente.',
             descripcionDetallada: 'Vehículo en perfecto estado, sin golpes ni rayones. Mantenimiento al día con service oficial. Interior impecable, tapizado en perfectas condiciones. Único dueño, nunca chocado.',
-            oferta: true,
+            oferta: false,
             destacado: false,
             visitas: 0,
             fechaIngreso: '2024-01-15',
